@@ -28,7 +28,7 @@
 |Font Name|Website|
 |:-:|:-:|
 | Berenis ADF Pro Math Regular | <http://arkandis.tuxfamily.org/adffonts.html> |
-| Fira Math <sup>[1](#2-1) | <https://github.com/Stone-Zeng/FiraMath> |
+| Fira Math <sup>[1](#2-1) | <https://github.com/firamath/firamath> |
 | Garamond-Math <sup>[1](#2-1) | <https://github.com/YuanshengZhao/Garamond-Math> |
 | Neo Euler <sup>[2](#2-2)</sup> | <https://github.com/khaledhosny/euler-otf> |
 
