@@ -83,6 +83,15 @@
 - 1989, Donald E. Knuth. [Typesetting Concrete Mathematics](https://www.tug.org/TUGboat/tb10-1/tb23knut.pdf)
 - 1979, Donald E. Knuth. [Mathematical Typography](http://www.math.lsa.umich.edu/~millerpd/docs/501_Winter13/Knuth79.pdf)
 
+## Multiple master fonts
+
+- [Multiple master fonts](https://en.wikipedia.org/wiki/Multiple_master_fonts)
+
+## Interpolation theory
+
+- [Luc(as) de Groot's Interpolation Theory](https://www.lucasfonts.com/about/interpolation-theory)
+- [A Generalization of Lucas de Groot's Interpolation Theory](http://typedrawers.com/discussion/2665/a-generalization-of-lucas-de-groot-s-interpolation-theory)
+
 ## Fonts
 
 See [Available OpenType math fonts](./opentype-math-fonts.md).
