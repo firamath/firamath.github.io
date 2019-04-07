@@ -7,7 +7,7 @@
 | Asana Math | [asana-math](https://ctan.org/pkg/asana-math) | |
 | DejaVu Math TeX Gyre&nbsp;<sup>[1](#1) | [dejavu-otf](https://ctan.org/pkg/dejavu-otf) | <https://sourceforge.net/projects/dejavu> |
 | Fira Math&nbsp;<sup>[2](#2) | [firamath](https://ctan.org/pkg/firamath) | <https://github.com/firamath/firamath> |
-| GFS Neohellenic Math | [gfsneohellenicmath](https://ctan.org/pkg/gfsneohellenicmath) | |
+| GFS Neohellenic Math | [gfsneohellenicmath](https://ctan.org/pkg/gfsneohellenicmath) | <https://greekfontsociety-gfs.gr/typefaces/Math> |
 | Latin Modern Math | [lm-math](https://ctan.org/pkg/lm-math) | <http://www.gust.org.pl/projects/e-foundry/lm-math> |
 | Libertinus Math | [libertinus](https://ctan.org/pkg/libertinus) | <https://github.com/libertinus-fonts/libertinus> |
 | STIX Math | [stix](https://ctan.org/pkg/stix)&nbsp;<sup>[3](#3) | <http://www.stixfonts.org> |

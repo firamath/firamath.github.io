@@ -11,12 +11,12 @@
 
 ### Standard and code charts
 
-- The Unicode Standard (Current version: 11.0)
-  - [HTML](https://www.unicode.org/versions/Unicode11.0.0)
-  - [PDF](https://www.unicode.org/versions/Unicode11.0.0/UnicodeStandard-11.0.pdf)
+- The Unicode Standard (Current version: 12.0)
+  - [HTML](https://www.unicode.org/versions/Unicode12.0.0)
+  - [PDF](https://www.unicode.org/versions/Unicode12.0.0/UnicodeStandard-12.0.pdf)
 - Character Code Charts
   - [Blocks](https://www.unicode.org/charts)
-  - [All in one](https://www.unicode.org/Public/11.0.0/charts/CodeCharts.pdf)
+  - [All in one](https://www.unicode.org/Public/12.0.0/charts/CodeCharts.pdf)
 
 ### Support for mathematics
 
@@ -35,7 +35,7 @@
 - ISO/IEC 14496-22:2015 "Open Font Format"
   - [HTML](https://www.iso.org/standard/66391.html)
   - [PDF](https://standards.iso.org/ittf/PubliclyAvailableStandards/c066391_ISO_IEC_14496-22_2015.zip)
-- [OpenType Feature File Specification](https://www.adobe.com/devnet/opentype/afdko/topic_feature_file_syntax.html)
+- [OpenType Feature File Specification](https://adobe-type-tools.github.io/afdko/OpenTypeFeatureFileSpecification.html)
 
 ### `MATH` table
 
@@ -87,7 +87,7 @@
 
 - [Multiple master fonts](https://en.wikipedia.org/wiki/Multiple_master_fonts)
 
-## Interpolation theory
+### Interpolation theory
 
 - [Luc(as) de Groot's Interpolation Theory](https://www.lucasfonts.com/about/interpolation-theory)
 - [A Generalization of Lucas de Groot's Interpolation Theory](http://typedrawers.com/discussion/2665/a-generalization-of-lucas-de-groot-s-interpolation-theory)
