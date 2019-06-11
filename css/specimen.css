@@ -1,0 +1,150 @@
+@import url("firamath.css");
+@import url("https://use.typekit.net/ull1eyf.css");
+
+body {
+    font-family: "fira-sans", "fira-sans-2", "Fira Sans", "FiraGO", sans-serif;
+    width: 900px;
+    padding: 0 100px;
+    margin: 0 auto;
+}
+
+nav {
+    background-color: black;
+    margin-bottom: 10px;
+}
+
+.toc-links {
+    display: inline;
+    padding: 0;
+}
+
+.toc-links li {
+    color: white;
+    font-size: 24px;
+    font-weight: 500;
+    display: inline-block;
+    padding: 10px 16px;
+}
+
+.toc-links a {
+    text-decoration: none;
+    color: inherit;
+}
+
+li.selected {
+    color: black;
+    background-color: white;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 16px 0;
+    margin-bottom: 16px;
+}
+
+h1 {
+    font-size: 48px;
+    padding-left: 16px;
+    margin: 0;
+    width: 60%;
+}
+
+#picker {
+    position: relative;
+    font-size: 20px;
+}
+
+#weight {
+    color: white;
+    background-color: black;
+    padding: 10px;
+    cursor: pointer;
+}
+
+#menu {
+    list-style-type: none;
+    background-color: #ebebeb;
+    padding: 0;
+    margin: 10px 0;
+    position: absolute;
+    right: 0;
+    z-index: 1000;
+}
+
+#menu li {
+    padding: 5px 12px;
+    cursor: pointer;
+}
+
+#menu li:hover {
+    background-color: #b4b4b4;
+}
+
+.invisible {
+    visibility: hidden;
+}
+
+
+.show h3 {
+    font-size: 14px;
+    text-align: right;
+    margin: 0 0 -1px;
+    border-bottom: 1px solid black;
+    position: sticky;
+    top: 0;
+}
+
+.show h3 span {
+    display: block;
+    position: absolute;
+    right: 100%;
+    background: black;
+    color: white;
+    padding: 0 4px;
+}
+
+table.block {
+    table-layout: fixed;
+    width: 900px;
+}
+
+table.block td {
+    padding: 4px;
+    text-align: center;
+    vertical-align: 0;
+    line-height: 60px;
+}
+
+table.block .char {
+    font-family: "Fira Math", sans-serif;
+    font-size: 32px;
+    line-height: 20px;
+    cursor: default;
+}
+
+table.block .missing {
+    opacity: 0.06;
+}
+
+table.block td.indicator {
+    font: 400 12px monospace;
+    color: black;
+    width: 50px;
+    text-align: right;
+    margin-right: 10px;
+}
+
+.FiraMath-Thin       { font-weight: 100; }
+.FiraMath-UltraLight { font-weight: 200; }
+.FiraMath-ExtraLight { font-weight: 250; }
+.FiraMath-Light      { font-weight: 300; }
+.FiraMath-Book       { font-weight: 350; }
+.FiraMath-Regular    { font-weight: 400; }
+.FiraMath-Medium     { font-weight: 500; }
+.FiraMath-SemiBold   { font-weight: 600; }
+.FiraMath-Bold       { font-weight: 700; }
+.FiraMath-ExtraBold  { font-weight: 800; }
+.FiraMath-Heavy      { font-weight: 900; }
+.FiraMath-Ultra      { font-weight: 950; }

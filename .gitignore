@@ -1,6 +1,4 @@
-# Font files
 *.otf
 *.woff
-
-# Other
-assets/adobe-blank
+.DS_Store
+.vscode/

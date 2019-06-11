@@ -1,0 +1,60 @@
+@font-face {
+    font-family: "Fira Math";
+    src: url("../assets/FiraMath-Thin.woff");
+    font-weight: 100;
+}
+@font-face {
+    font-family: "Fira Math";
+    src: url("../assets/FiraMath-UltraLight.woff");
+    font-weight: 200;
+}
+@font-face {
+    font-family: "Fira Math";
+    src: url("../assets/FiraMath-ExtraLight.woff");
+    font-weight: 250;
+}
+@font-face {
+    font-family: "Fira Math";
+    src: url("../assets/FiraMath-Light.woff");
+    font-weight: 300;
+}
+@font-face {
+    font-family: "Fira Math";
+    src: url("../assets/FiraMath-Book.woff");
+    font-weight: 350;
+}
+@font-face {
+    font-family: "Fira Math";
+    src: url("../assets/FiraMath-Regular.woff");
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Fira Math";
+    src: url("../assets/FiraMath-Medium.woff");
+    font-weight: 500;
+}
+@font-face {
+    font-family: "Fira Math";
+    src: url("../assets/FiraMath-SemiBold.woff");
+    font-weight: 600;
+}
+@font-face {
+    font-family: "Fira Math";
+    src: url("../assets/FiraMath-Bold.woff");
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Fira Math";
+    src: url("../assets/FiraMath-ExtraBold.woff");
+    font-weight: 800;
+}
+@font-face {
+    font-family: "Fira Math";
+    src: url("../assets/FiraMath-Heavy.woff");
+    font-weight: 900;
+}
+@font-face {
+    font-family: "Fira Math";
+    src: url("../assets/FiraMath-Ultra.woff");
+    font-weight: 950;
+}
