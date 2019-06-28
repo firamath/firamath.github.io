@@ -1,0 +1,19 @@
+{
+  "name": "firamath.github.io",
+  "version": "0.1.0",
+  "description": "Website for Fira Math",
+  "dependencies": {},
+  "devDependencies": {
+    "opentype.js": "^1.1.0",
+    "pako": "^1.0.10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/firamath/firamath.github.io.git"
+  },
+  "author": "Xiangdong Zeng",
+  "bugs": {
+    "url": "https://github.com/firamath/firamath.github.io/issues"
+  },
+  "homepage": "https://firamath.github.io"
+}

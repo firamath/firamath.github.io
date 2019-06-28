@@ -2,3 +2,5 @@
 *.woff
 .DS_Store
 .vscode/
+assets/test/
+node_modules/
