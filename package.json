@@ -2,11 +2,11 @@
   "name": "firamath.github.io",
   "version": "0.1.0",
   "description": "Website for Fira Math",
-  "dependencies": {},
-  "devDependencies": {
+  "dependencies": {
     "opentype.js": "^1.1.0",
     "pako": "^1.0.10"
   },
+  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/firamath/firamath.github.io.git"

@@ -15,7 +15,6 @@
     },
     "rules": {
         "comma-dangle": "warn",
-        "indent": "warn",
         "key-spacing": [
             "warn",
             {
